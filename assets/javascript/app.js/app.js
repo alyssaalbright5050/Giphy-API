@@ -14,6 +14,7 @@ $(document).ready(function () {
             $("#gifButtonsView").append(gifButton);
         }
     }
+
     // Function to add a new action button
     function addNewButton() {
         $("#addGif").on("click", function () {
